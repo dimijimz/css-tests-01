@@ -1,10 +1,2 @@
-
-/* Tweaked padding for flex items */
-
-/* Adjusted flexbox alignment */
-
-/* Added comment for flex direction */
-
-/* Increased margin for flex containers */
-
-/* Removed unused flex properties */
+/* Flexbox container */
+.flex-container { display: flex; }

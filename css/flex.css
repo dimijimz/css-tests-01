@@ -2,3 +2,5 @@
 .flex-container { display: flex; }
 
 /* Adjusted margin for flex items */
+
+/* Added flex-grow to flex items */

@@ -12,3 +12,5 @@
 /* Commented on flex-wrap behavior */
 
 .flex-item { flex-grow: 1; }
+
+/* Adjusted flex-basis for better spacing */

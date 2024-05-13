@@ -16,3 +16,5 @@
 /* Adjusted flex-basis for better spacing */
 
 /* Added comment about flex-basis */
+
+.flex-item { flex-basis: 200px; }

@@ -26,3 +26,5 @@
 /* Tweaked align-items for centering */
 
 /* Adjusted flex direction to row */
+
+.flex-container { justify-content: space-between; align-items: center; flex-direction: row; }

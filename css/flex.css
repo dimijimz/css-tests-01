@@ -42,3 +42,5 @@
 /* Reduced margin for flex container on small screens */
 
 /* Adjusted spacing between flex items */
+
+.flex-item { flex-shrink: 0; padding: 15px; }

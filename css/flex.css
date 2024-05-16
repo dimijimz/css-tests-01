@@ -50,3 +50,5 @@
 /* Tweaked justify-content for mobile view */
 
 /* Added comment for media queries */
+
+@media (max-width: 768px) { .flex-container { flex-direction: column; justify-content: center; } }

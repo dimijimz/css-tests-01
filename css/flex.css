@@ -44,3 +44,5 @@
 /* Adjusted spacing between flex items */
 
 .flex-item { flex-shrink: 0; padding: 15px; }
+
+/* Adjusted flex direction for responsive layout */

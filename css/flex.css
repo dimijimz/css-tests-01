@@ -60,3 +60,5 @@
 /* Added comment on mobile layout adjustments */
 
 /* Slightly adjusted spacing for flex containers */
+
+.flex-container { margin: 10px; padding: 5px; }

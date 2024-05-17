@@ -54,3 +54,5 @@
 @media (max-width: 768px) { .flex-container { flex-direction: column; justify-content: center; } }
 
 /* Reduced margin for smaller screens */
+
+/* Adjusted padding for flex items on mobile */

@@ -52,3 +52,5 @@
 /* Added comment for media queries */
 
 @media (max-width: 768px) { .flex-container { flex-direction: column; justify-content: center; } }
+
+/* Reduced margin for smaller screens */

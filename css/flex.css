@@ -72,3 +72,5 @@
 /* Slightly reduced margin between flex items */
 
 /* Adjusted content alignment for smaller screens */
+
+.flex-item { flex-grow: 2; margin: 8px; }

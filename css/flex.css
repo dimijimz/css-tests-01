@@ -86,3 +86,5 @@
 /* Updated comment for flex-wrap */
 
 /* Slightly reduced margin for flex items */
+
+.flex-container { justify-content: center; padding: 15px; }

@@ -6,3 +6,5 @@
 /* Increased border-radius */
 
 /* Changed button hover color */
+
+.button:hover { background-color: #333; }

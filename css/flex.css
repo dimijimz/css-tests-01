@@ -88,3 +88,5 @@
 /* Slightly reduced margin for flex items */
 
 .flex-container { justify-content: center; padding: 15px; }
+
+/* Adjusted flex item margin for desktop view */

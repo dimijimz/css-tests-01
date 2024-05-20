@@ -92,3 +92,5 @@
 /* Adjusted flex item margin for desktop view */
 
 /* Increased gap between flex items */
+
+.flex-item { margin: 10px; gap: 20px; }

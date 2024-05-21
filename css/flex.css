@@ -94,3 +94,5 @@
 /* Increased gap between flex items */
 
 .flex-item { margin: 10px; gap: 20px; }
+
+/* Slightly adjusted padding for flex container */

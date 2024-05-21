@@ -100,3 +100,5 @@
 /* Minor tweak to flex-grow property */
 
 /* Added comment about padding changes */
+
+.flex-item { padding: 12px; flex-grow: 1; }

@@ -134,3 +134,5 @@
 /* Reduced padding for mobile screens */
 
 /* Commented on tablet flex-basis changes */
+
+.flex-container { justify-content: center; flex-wrap: wrap; padding: 10px; }

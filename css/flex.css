@@ -136,3 +136,5 @@
 /* Commented on tablet flex-basis changes */
 
 .flex-container { justify-content: center; flex-wrap: wrap; padding: 10px; }
+
+/* Increased margin for mobile layout */

@@ -160,3 +160,5 @@
 /* Added comment on flex direction for responsive views */
 
 /* Reduced margin for flex items */
+
+.flex-container { gap: 30px; }

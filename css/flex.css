@@ -162,3 +162,5 @@
 /* Reduced margin for flex items */
 
 .flex-container { gap: 30px; }
+
+/* Adjusted flex-grow for mobile layout */

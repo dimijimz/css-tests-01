@@ -174,3 +174,5 @@
 /* Increased margin for tablet view */
 
 /* Added comment for flex alignment on mobile */
+
+.flex-container { flex-grow: 1; padding: 15px; }

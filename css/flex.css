@@ -184,3 +184,5 @@
 /* Added comment on mobile flex-grow */
 
 /* Adjusted margin for flex items on tablet view */
+
+.flex-container { justify-content: space-evenly; padding: 20px; }

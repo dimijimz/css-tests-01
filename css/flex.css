@@ -186,3 +186,5 @@
 /* Adjusted margin for flex items on tablet view */
 
 .flex-container { justify-content: space-evenly; padding: 20px; }
+
+/* Increased gap for flex items */

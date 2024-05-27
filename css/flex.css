@@ -192,3 +192,5 @@
 /* Adjusted flex-wrap for desktop view */
 
 /* Added comment on flex direction for mobile */
+
+.flex-container { gap: 25px; flex-wrap: wrap; }

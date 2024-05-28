@@ -196,3 +196,5 @@
 .flex-container { gap: 25px; flex-wrap: wrap; }
 
 /* Reduced padding for flex items on mobile */
+
+/* Tweaked flex-grow for desktop view */

@@ -216,3 +216,5 @@
 /* Added comment for flex-grow behavior */
 
 /* Increased margin for mobile screens */
+
+.flex-container { flex-direction: column; padding: 20px; }

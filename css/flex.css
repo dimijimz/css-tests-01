@@ -208,3 +208,5 @@
 /* Increased flex-wrap for tablet view */
 
 .flex-item { flex-grow: 2; flex-basis: 250px; }
+
+/* Adjusted padding for tablet view */

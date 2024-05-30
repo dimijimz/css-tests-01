@@ -220,3 +220,5 @@
 .flex-container { flex-direction: column; padding: 20px; }
 
 /* Tweaked flex-shrink for tablet view */
+
+/* Increased gap between flex items on desktop */

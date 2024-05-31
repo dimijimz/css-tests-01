@@ -230,3 +230,5 @@
 /* Increased padding for desktop view */
 
 .flex-container { gap: 25px; flex-grow: 1; padding: 30px; }
+
+/* Reduced padding for mobile layout */

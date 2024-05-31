@@ -238,3 +238,5 @@
 /* Added comment on flex-wrap behavior */
 
 /* Increased gap between flex items */
+
+.flex-container { flex-basis: 300px; flex-wrap: wrap; gap: 30px; }
